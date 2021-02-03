@@ -11,4 +11,4 @@ Original code can be found [here](https://github.com/juncaixinchi/FGO)
 
 Using canvas to generate gacha. Could have used simple img tbh
 
-Link: [https://enshael.github.io/FGO/gacha.html](https://jcdeoferio.github.io/FGO/gacha.html)
+Link: [https://enshael.github.io/FGO/gacha.html](https://enshael.github.io/FGO/gacha.html)
